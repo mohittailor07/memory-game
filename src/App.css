@@ -56,7 +56,7 @@
 
 .tile {
   margin: 20px;
-  min-width: 600px;
+  width: 45%;
   height: 60px;
   background: white;
 }
