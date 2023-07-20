@@ -15,8 +15,6 @@ metadata:
       url: https://discord.com/invite/EBHEGzX
   annotations:
     github.com/project-slug: facebook/react
-    react.dev/techdocs-ref: dir:.  
-    lighthouse.com/website-url: https://react.dev
 spec:
   type: library
   owner: TestReact
