@@ -1,0 +1,23 @@
+apiVersion: react.dev/v1alpha1
+kind: Component
+metadata:
+  name: TestReactDoc
+  description: |
+    React is an open-source library and have js as a base the developer experience first.
+  links:
+    - title: Website
+      url: https://react.dev
+    - title: Documentation
+      url: https://react.dev/docs
+    - title: Storybook
+      url: https://react.dev/learn
+    - title: Discord Chat
+      url: https://discord.com/invite/EBHEGzX
+  annotations:
+    github.com/project-slug: facebook/react
+    react.dev/techdocs-ref: dir:.  
+    lighthouse.com/website-url: https://react.dev
+spec:
+  type: library
+  owner: TestReact
+  lifecycle: experimental
