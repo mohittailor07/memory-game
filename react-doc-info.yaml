@@ -13,6 +13,8 @@ metadata:
       url: https://react.dev/learn
   annotations:
     github.com/project-slug: facebook/react
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://react.dev
 spec:
   type: library
   owner: TestReact
