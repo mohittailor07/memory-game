@@ -11,8 +11,6 @@ metadata:
       url: https://react.dev/docs
     - title: Storybook
       url: https://react.dev/learn
-    - title: Discord Chat
-      url: https://discord.com/invite/EBHEGzX
   annotations:
     github.com/project-slug: facebook/react
 spec:
